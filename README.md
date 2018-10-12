@@ -12,20 +12,17 @@ $ npm install -g react-native-cli
 
 ## Get Started
 
-iOS
+start react-native
 
 ```
 $ cd ALISMap
-$ react-native run-ios
+$ react-native start
 ```
 
-Android
-
-You Should start your emulator first.
+another tab,
 
 ```
-$ cd ALISMap
-$ react-native run-android
+$ react-native run-ios # run-android
 ```
 
 ## Troubleshooting
