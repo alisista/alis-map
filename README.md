@@ -21,7 +21,14 @@ $ react-native run-ios
 
 Android
 
+You Should start your emulator first.
+
 ```
 $ cd ALISMap
 $ react-native run-android
 ```
+
+## Troubleshooting
+
+react-native 0.57.2 is installed.
+=> https://github.com/facebook/react-native/issues/21490#issuecomment-427240356
