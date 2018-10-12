@@ -22,6 +22,7 @@ $ react-native start
 another tab,
 
 ```
+$ cd ALISMap
 $ react-native run-ios # run-android
 ```
 
